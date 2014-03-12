@@ -1,19 +1,46 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+[Área de Jornalismo]
+--------------------
+[Plataforma de Comentários]
+---------------------------
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+####Dados Pessoais
+- Nome: Vinícius Wachekowski Palma
+- Idade: 18 anos
+- Data nascimento: 14/08/1995
+- Brasileiro
+- Solteiro
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+####Endereço/Contato
+- Porto Alegre - Rio Grande do Sul.
+- Telefone: 51 95866158
+- Email: viniwpalma@gmail.com
+- Facebook: /viniciuswpalma
+
+###Conhecimentos
+- HTML5 e CSS3
+- SASS, LESS e Stylus
+- JavaScript
+- JQuery
+- PHP
+- Java EE
+- Ruby on Rails
+- NodeJS
+- MVC
+- Paradigma Orientado à Objeto e Eventos
+
+###Experiência
+- Kbase - IT Solutions
+- 09/2013 - Atual
+- Trabalhei com a metodologia ágil o scrum e tecnologias como: HTML, CSS, JavaScript, WebSpeed e Progress 4GL.
+
+###Por que eu quero trabalhar na globo.com ?
+1. Estar onde as coisas acontecem;
+2. Estar com pessoas que fazem acontecer;
+3. Participar de open sources;
+4. Participar de talks;
